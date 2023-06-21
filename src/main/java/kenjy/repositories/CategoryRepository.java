@@ -1,6 +1,6 @@
-package guru.springfamework.repositories;
+package kenjy.repositories;
 
-import guru.springfamework.domain.Category;
+import kenjy.domain.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
